@@ -1,7 +1,8 @@
 # Heading Smol o_o
 ## Heading Smoller owo
 ###### Heading Smollest OwO
-> I'm Loopy, I'm Loopy, I'm Loopy! >
+> I'm Loopy, I'm Loopy, I'm Loopy!
+> 
 **Bold & Brash**
 _More like, belongs in the trash!_
 ***AsteriskAsteriskAsteriskAsteriskAsteriskAsterisk***
