@@ -19,8 +19,8 @@ _More like, belongs in the trash!_
 3. Hooray!
 
 Bucket List:
-- [] Get a job
-- [] Find happiness
-- [] Buy a video game without feeling like a greedy bastard
+- [ ] Get a job
+- [ ] Find happiness
+- [ ] Buy a video game without feeling like a greedy bastard
 
 [Click here for a free burger!!!](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
